@@ -13,3 +13,11 @@
 
 * Youtube video: https://www.youtube.com/watch?v=M576WGiDBdQ
 * Github: https://github.com/smartcontractkit/full-blockchain-solidity-course-py
+
+## Github
+
+* https://github.com/ethereum/solidity
+
+## Docs
+
+* https://docs.soliditylang.org/en/latest/
