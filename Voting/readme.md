@@ -2,6 +2,12 @@
 
 This voting example is copied from here: https://docs.soliditylang.org/en/latest/solidity-by-example.html#voting
 
+## Voting2
+
+Modified example with:
+* check that only one proposal can win
+* giveRights function takes list of addresses as input parameter
+
 ## Parameter
 
 Pass parameter proposals for example like this:
