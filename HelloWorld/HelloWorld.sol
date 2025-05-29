@@ -8,7 +8,7 @@ contract HelloWorld {
     event Log(address indexed sender, string message);
 
     address owner;
-    
+
     constructor() {
         owner = msg.sender;
     }
@@ -17,9 +17,11 @@ contract HelloWorld {
         emit Log(msg.sender, "Hello EVM!");
     }
 
-    function get() external view returns(string memory greeting){      
-        if(owner == msg.sender) {   
-        return greeting = "Hello, world!";
-        }       
+    function get() external view returns (string memory greeting) {
+        if (owner == msg.sender) {
+            return greeting = "Hello, world!";
+        } else {
+            return greeting = "Hello EVM!";
+        }
     }
 }
