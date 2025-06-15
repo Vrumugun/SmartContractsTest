@@ -17,3 +17,6 @@
   - https://docs.self.xyz/contract-integration/deployed-contracts
   - https://blog.celo.org/self-protocol-a-sybil-resistant-identity-primitive-for-real-people-launches-following-acquisition-74fd3461a428
   - https://ethglobal.com/events/taipei/prizes/self-protocol
+
+
+https://ethglobal.com/events/taipei
