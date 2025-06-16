@@ -4,10 +4,14 @@
 
 * https://sepoliafaucet.com/
 
-## IDEs:
+## IDEs (online):
 * https://dashboard.alchemy.com/
 * https://remix.ethereum.org/
 * https://chainide.com/s/ethereum/
+
+## IDEs (offline):
+* https://hardhat.org/ (Linux)
+* https://getfoundry.sh/ (Linux)
 
 ## Solidity course
 
@@ -21,3 +25,7 @@
 ## Docs
 
 * https://docs.soliditylang.org/en/latest/
+
+## AI
+
+* https://replit.com/

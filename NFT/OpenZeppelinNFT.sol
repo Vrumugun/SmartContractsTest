@@ -7,7 +7,7 @@ import "@openzeppelin/contracts/access/Ownable.sol";
 contract OpenZeppelinNFT is ERC721, Ownable {
     uint public nextTokenId;
 
-    constructor() ERC721("NFT", "MNFT") Ownable(msg.sender) {}
+    constructor() ERC721("OpenZeppelinNFT", "OZNFT") Ownable(msg.sender) {}
 
     function mint(address to) public onlyOwner {
         _safeMint(to, nextTokenId);
